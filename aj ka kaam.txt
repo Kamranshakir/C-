@@ -1,0 +1,6 @@
+opening date
+remarks of night shift
+auto leave adjustment
+
+FOR TOMORROW
+-enable leave adjustment
